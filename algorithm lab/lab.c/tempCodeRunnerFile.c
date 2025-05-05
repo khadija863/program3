@@ -1,0 +1,1 @@
+int m = strlen(S1), n = strlen(S2), LCS[m+1][n+1], i, j;
