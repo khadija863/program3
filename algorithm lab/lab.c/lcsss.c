@@ -10,7 +10,7 @@ for (i=0;i<n;i++)
 
 }
 
-printf("\n array traversing:");
+printf("\n array traverse:");
 for(i=0;i<n;i++)
 {
     printf("%4d",a[1]);
